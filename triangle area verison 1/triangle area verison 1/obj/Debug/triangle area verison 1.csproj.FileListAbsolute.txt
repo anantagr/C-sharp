@@ -1,0 +1,7 @@
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\triangle area verison 1\triangle area verison 1\bin\Debug\triangle area verison 1.exe.config
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\triangle area verison 1\triangle area verison 1\bin\Debug\triangle area verison 1.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\triangle area verison 1\triangle area verison 1\bin\Debug\triangle area verison 1.pdb
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\triangle area verison 1\triangle area verison 1\obj\Debug\triangle area verison 1.csprojAssemblyReference.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\triangle area verison 1\triangle area verison 1\obj\Debug\triangle area verison 1.csproj.CoreCompileInputs.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\triangle area verison 1\triangle area verison 1\obj\Debug\triangle area verison 1.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\triangle area verison 1\triangle area verison 1\obj\Debug\triangle area verison 1.pdb

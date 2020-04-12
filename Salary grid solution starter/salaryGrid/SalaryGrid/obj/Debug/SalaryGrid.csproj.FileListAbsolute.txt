@@ -1,0 +1,20 @@
+D:\02 salary grid solution starter\salaryGrid\SalaryGrid\bin\Debug\SalaryGrid.exe.config
+D:\02 salary grid solution starter\salaryGrid\SalaryGrid\bin\Debug\SalaryGrid.exe
+D:\02 salary grid solution starter\salaryGrid\SalaryGrid\bin\Debug\SalaryGrid.pdb
+D:\02 salary grid solution starter\salaryGrid\SalaryGrid\obj\Debug\SalaryGrid.csprojAssemblyReference.cache
+D:\02 salary grid solution starter\salaryGrid\SalaryGrid\obj\Debug\SalaryGrid.mainForm.resources
+D:\02 salary grid solution starter\salaryGrid\SalaryGrid\obj\Debug\SalaryGrid.Properties.Resources.resources
+D:\02 salary grid solution starter\salaryGrid\SalaryGrid\obj\Debug\SalaryGrid.csproj.GenerateResource.cache
+D:\02 salary grid solution starter\salaryGrid\SalaryGrid\obj\Debug\SalaryGrid.csproj.CoreCompileInputs.cache
+D:\02 salary grid solution starter\salaryGrid\SalaryGrid\obj\Debug\SalaryGrid.exe
+D:\02 salary grid solution starter\salaryGrid\SalaryGrid\obj\Debug\SalaryGrid.pdb
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\02 salary grid solution starter\salaryGrid\SalaryGrid\bin\Debug\SalaryGrid.exe.config
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\02 salary grid solution starter\salaryGrid\SalaryGrid\bin\Debug\SalaryGrid.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\02 salary grid solution starter\salaryGrid\SalaryGrid\bin\Debug\SalaryGrid.pdb
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\02 salary grid solution starter\salaryGrid\SalaryGrid\obj\Debug\SalaryGrid.csprojAssemblyReference.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\02 salary grid solution starter\salaryGrid\SalaryGrid\obj\Debug\SalaryGrid.mainForm.resources
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\02 salary grid solution starter\salaryGrid\SalaryGrid\obj\Debug\SalaryGrid.Properties.Resources.resources
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\02 salary grid solution starter\salaryGrid\SalaryGrid\obj\Debug\SalaryGrid.csproj.GenerateResource.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\02 salary grid solution starter\salaryGrid\SalaryGrid\obj\Debug\SalaryGrid.csproj.CoreCompileInputs.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\02 salary grid solution starter\salaryGrid\SalaryGrid\obj\Debug\SalaryGrid.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\02 salary grid solution starter\salaryGrid\SalaryGrid\obj\Debug\SalaryGrid.pdb

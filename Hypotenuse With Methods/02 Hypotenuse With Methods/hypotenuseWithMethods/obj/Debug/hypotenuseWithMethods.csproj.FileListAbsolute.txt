@@ -1,0 +1,7 @@
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\02 Hypotenuse With Methods\02 Hypotenuse With Methods\hypotenuseWithMethods\bin\Debug\hypotenuse.exe.config
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\02 Hypotenuse With Methods\02 Hypotenuse With Methods\hypotenuseWithMethods\bin\Debug\hypotenuse.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\02 Hypotenuse With Methods\02 Hypotenuse With Methods\hypotenuseWithMethods\bin\Debug\hypotenuse.pdb
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\02 Hypotenuse With Methods\02 Hypotenuse With Methods\hypotenuseWithMethods\obj\Debug\hypotenuseWithMethods.csprojAssemblyReference.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\02 Hypotenuse With Methods\02 Hypotenuse With Methods\hypotenuseWithMethods\obj\Debug\hypotenuseWithMethods.csproj.CoreCompileInputs.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\02 Hypotenuse With Methods\02 Hypotenuse With Methods\hypotenuseWithMethods\obj\Debug\hypotenuse.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\02 Hypotenuse With Methods\02 Hypotenuse With Methods\hypotenuseWithMethods\obj\Debug\hypotenuse.pdb

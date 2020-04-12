@@ -1,0 +1,10 @@
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\GUI Technical Support\GUI Technical Support\bin\Debug\GUI Technical Support.exe.config
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\GUI Technical Support\GUI Technical Support\bin\Debug\GUI Technical Support.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\GUI Technical Support\GUI Technical Support\bin\Debug\GUI Technical Support.pdb
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\GUI Technical Support\GUI Technical Support\obj\Debug\GUI Technical Support.csprojAssemblyReference.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\GUI Technical Support\GUI Technical Support\obj\Debug\GUI_Technical_Support.mainForm.resources
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\GUI Technical Support\GUI Technical Support\obj\Debug\GUI_Technical_Support.Properties.Resources.resources
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\GUI Technical Support\GUI Technical Support\obj\Debug\GUI Technical Support.csproj.GenerateResource.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\GUI Technical Support\GUI Technical Support\obj\Debug\GUI Technical Support.csproj.CoreCompileInputs.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\GUI Technical Support\GUI Technical Support\obj\Debug\GUI Technical Support.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\GUI Technical Support\GUI Technical Support\obj\Debug\GUI Technical Support.pdb

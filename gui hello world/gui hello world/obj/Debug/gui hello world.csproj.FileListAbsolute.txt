@@ -1,0 +1,10 @@
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\gui hello world\gui hello world\bin\Debug\gui hello world.exe.config
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\gui hello world\gui hello world\bin\Debug\gui hello world.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\gui hello world\gui hello world\bin\Debug\gui hello world.pdb
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\gui hello world\gui hello world\obj\Debug\gui hello world.csprojAssemblyReference.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\gui hello world\gui hello world\obj\Debug\gui_hello_world.MainForm.resources
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\gui hello world\gui hello world\obj\Debug\gui_hello_world.Properties.Resources.resources
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\gui hello world\gui hello world\obj\Debug\gui hello world.csproj.GenerateResource.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\gui hello world\gui hello world\obj\Debug\gui hello world.csproj.CoreCompileInputs.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\gui hello world\gui hello world\obj\Debug\gui hello world.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\gui hello world\gui hello world\obj\Debug\gui hello world.pdb

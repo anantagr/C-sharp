@@ -1,0 +1,7 @@
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\TrapezoidArea\TrapezoidArea\bin\Debug\TrapezoidArea.exe.config
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\TrapezoidArea\TrapezoidArea\bin\Debug\TrapezoidArea.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\TrapezoidArea\TrapezoidArea\bin\Debug\TrapezoidArea.pdb
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\TrapezoidArea\TrapezoidArea\obj\Debug\TrapezoidArea.csprojAssemblyReference.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\TrapezoidArea\TrapezoidArea\obj\Debug\TrapezoidArea.csproj.CoreCompileInputs.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\TrapezoidArea\TrapezoidArea\obj\Debug\TrapezoidArea.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\TrapezoidArea\TrapezoidArea\obj\Debug\TrapezoidArea.pdb

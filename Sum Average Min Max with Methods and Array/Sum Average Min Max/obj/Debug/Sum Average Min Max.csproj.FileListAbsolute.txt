@@ -1,0 +1,7 @@
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Sum Average Min Max\Sum Average Min Max\bin\Debug\Sum Average Min Max.exe.config
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Sum Average Min Max\Sum Average Min Max\bin\Debug\Sum Average Min Max.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Sum Average Min Max\Sum Average Min Max\bin\Debug\Sum Average Min Max.pdb
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Sum Average Min Max\Sum Average Min Max\obj\Debug\Sum Average Min Max.csprojAssemblyReference.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Sum Average Min Max\Sum Average Min Max\obj\Debug\Sum Average Min Max.csproj.CoreCompileInputs.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Sum Average Min Max\Sum Average Min Max\obj\Debug\Sum Average Min Max.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Sum Average Min Max\Sum Average Min Max\obj\Debug\Sum Average Min Max.pdb

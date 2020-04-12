@@ -1,0 +1,7 @@
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\01 Hypotenuse\01 Hypotenuse\hypotenuse\bin\Debug\hypotenuse.exe.config
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\01 Hypotenuse\01 Hypotenuse\hypotenuse\bin\Debug\hypotenuse.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\01 Hypotenuse\01 Hypotenuse\hypotenuse\bin\Debug\hypotenuse.pdb
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\01 Hypotenuse\01 Hypotenuse\hypotenuse\obj\Debug\hypotenuse.csprojAssemblyReference.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\01 Hypotenuse\01 Hypotenuse\hypotenuse\obj\Debug\hypotenuse.csproj.CoreCompileInputs.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\01 Hypotenuse\01 Hypotenuse\hypotenuse\obj\Debug\hypotenuse.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\01 Hypotenuse\01 Hypotenuse\hypotenuse\obj\Debug\hypotenuse.pdb

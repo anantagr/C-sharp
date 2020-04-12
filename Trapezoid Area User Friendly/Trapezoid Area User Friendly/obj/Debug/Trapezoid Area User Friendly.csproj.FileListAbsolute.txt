@@ -1,0 +1,7 @@
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Trapezoid Area User Friendly\Trapezoid Area User Friendly\bin\Debug\Trapezoid Area User Friendly.exe.config
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Trapezoid Area User Friendly\Trapezoid Area User Friendly\bin\Debug\Trapezoid Area User Friendly.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Trapezoid Area User Friendly\Trapezoid Area User Friendly\bin\Debug\Trapezoid Area User Friendly.pdb
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Trapezoid Area User Friendly\Trapezoid Area User Friendly\obj\Debug\Trapezoid Area User Friendly.csprojAssemblyReference.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Trapezoid Area User Friendly\Trapezoid Area User Friendly\obj\Debug\Trapezoid Area User Friendly.csproj.CoreCompileInputs.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Trapezoid Area User Friendly\Trapezoid Area User Friendly\obj\Debug\Trapezoid Area User Friendly.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Trapezoid Area User Friendly\Trapezoid Area User Friendly\obj\Debug\Trapezoid Area User Friendly.pdb

@@ -1,0 +1,7 @@
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Investment Version 2\Investment Version 2\bin\Debug\Investment Version 2.exe.config
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Investment Version 2\Investment Version 2\bin\Debug\Investment Version 2.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Investment Version 2\Investment Version 2\bin\Debug\Investment Version 2.pdb
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Investment Version 2\Investment Version 2\obj\Debug\Investment Version 2.csprojAssemblyReference.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Investment Version 2\Investment Version 2\obj\Debug\Investment Version 2.csproj.CoreCompileInputs.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Investment Version 2\Investment Version 2\obj\Debug\Investment Version 2.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Investment Version 2\Investment Version 2\obj\Debug\Investment Version 2.pdb

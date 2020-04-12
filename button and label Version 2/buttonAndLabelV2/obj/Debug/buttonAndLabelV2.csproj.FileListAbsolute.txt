@@ -1,0 +1,10 @@
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\button and label Version 2\buttonAndLabelV2\bin\Debug\button.exe.config
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\button and label Version 2\buttonAndLabelV2\bin\Debug\button.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\button and label Version 2\buttonAndLabelV2\bin\Debug\button.pdb
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\button and label Version 2\buttonAndLabelV2\obj\Debug\buttonAndLabelV2.csprojAssemblyReference.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\button and label Version 2\buttonAndLabelV2\obj\Debug\button.mainForm.resources
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\button and label Version 2\buttonAndLabelV2\obj\Debug\button.Properties.Resources.resources
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\button and label Version 2\buttonAndLabelV2\obj\Debug\buttonAndLabelV2.csproj.GenerateResource.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\button and label Version 2\buttonAndLabelV2\obj\Debug\buttonAndLabelV2.csproj.CoreCompileInputs.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\button and label Version 2\buttonAndLabelV2\obj\Debug\button.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\button and label Version 2\buttonAndLabelV2\obj\Debug\button.pdb

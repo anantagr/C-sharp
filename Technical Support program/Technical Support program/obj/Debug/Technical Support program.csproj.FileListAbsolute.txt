@@ -1,0 +1,7 @@
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Technical Support program\Technical Support program\obj\Debug\Technical Support program.csprojAssemblyReference.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Technical Support program\Technical Support program\obj\Debug\Technical Support program.csproj.CoreCompileInputs.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Technical Support program\Technical Support program\bin\Debug\Technical Support program.exe.config
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Technical Support program\Technical Support program\bin\Debug\Technical Support program.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Technical Support program\Technical Support program\bin\Debug\Technical Support program.pdb
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Technical Support program\Technical Support program\obj\Debug\Technical Support program.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Technical Support program\Technical Support program\obj\Debug\Technical Support program.pdb

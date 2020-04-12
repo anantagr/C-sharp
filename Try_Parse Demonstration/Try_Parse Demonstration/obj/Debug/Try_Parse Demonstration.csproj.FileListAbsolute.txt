@@ -1,0 +1,7 @@
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Try_Parse Demonstration\Try_Parse Demonstration\bin\Debug\Try_Parse Demonstration.exe.config
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Try_Parse Demonstration\Try_Parse Demonstration\bin\Debug\Try_Parse Demonstration.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Try_Parse Demonstration\Try_Parse Demonstration\bin\Debug\Try_Parse Demonstration.pdb
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Try_Parse Demonstration\Try_Parse Demonstration\obj\Debug\Try_Parse Demonstration.csprojAssemblyReference.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Try_Parse Demonstration\Try_Parse Demonstration\obj\Debug\Try_Parse Demonstration.csproj.CoreCompileInputs.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Try_Parse Demonstration\Try_Parse Demonstration\obj\Debug\Try_Parse Demonstration.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Try_Parse Demonstration\Try_Parse Demonstration\obj\Debug\Try_Parse Demonstration.pdb

@@ -1,0 +1,10 @@
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\checkAnchor\checkAnchor\bin\Debug\checkAnchor.exe.config
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\checkAnchor\checkAnchor\bin\Debug\checkAnchor.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\checkAnchor\checkAnchor\bin\Debug\checkAnchor.pdb
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\checkAnchor\checkAnchor\obj\Debug\checkAnchor.csprojAssemblyReference.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\checkAnchor\checkAnchor\obj\Debug\checkAnchor.Form1.resources
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\checkAnchor\checkAnchor\obj\Debug\checkAnchor.Properties.Resources.resources
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\checkAnchor\checkAnchor\obj\Debug\checkAnchor.csproj.GenerateResource.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\checkAnchor\checkAnchor\obj\Debug\checkAnchor.csproj.CoreCompileInputs.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\checkAnchor\checkAnchor\obj\Debug\checkAnchor.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\checkAnchor\checkAnchor\obj\Debug\checkAnchor.pdb

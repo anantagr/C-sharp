@@ -1,0 +1,7 @@
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Bilbo Eggs\Bilbo Eggs\obj\Debug\Bilbo Eggs.csprojAssemblyReference.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Bilbo Eggs\Bilbo Eggs\obj\Debug\Bilbo Eggs.csproj.CoreCompileInputs.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Bilbo Eggs\Bilbo Eggs\bin\Debug\Bilbo Eggs.exe.config
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Bilbo Eggs\Bilbo Eggs\bin\Debug\Bilbo Eggs.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Bilbo Eggs\Bilbo Eggs\bin\Debug\Bilbo Eggs.pdb
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Bilbo Eggs\Bilbo Eggs\obj\Debug\Bilbo Eggs.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\Bilbo Eggs\Bilbo Eggs\obj\Debug\Bilbo Eggs.pdb

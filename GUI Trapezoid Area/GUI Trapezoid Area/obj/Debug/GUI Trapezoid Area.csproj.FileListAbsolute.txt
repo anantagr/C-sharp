@@ -1,0 +1,10 @@
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\GUI Trapezoid Area\GUI Trapezoid Area\bin\Debug\GUI Trapezoid Area.exe.config
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\GUI Trapezoid Area\GUI Trapezoid Area\bin\Debug\GUI Trapezoid Area.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\GUI Trapezoid Area\GUI Trapezoid Area\bin\Debug\GUI Trapezoid Area.pdb
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\GUI Trapezoid Area\GUI Trapezoid Area\obj\Debug\GUI Trapezoid Area.csprojAssemblyReference.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\GUI Trapezoid Area\GUI Trapezoid Area\obj\Debug\GUI_Trapezoid_Area.mainForm.resources
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\GUI Trapezoid Area\GUI Trapezoid Area\obj\Debug\GUI_Trapezoid_Area.Properties.Resources.resources
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\GUI Trapezoid Area\GUI Trapezoid Area\obj\Debug\GUI Trapezoid Area.csproj.GenerateResource.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\GUI Trapezoid Area\GUI Trapezoid Area\obj\Debug\GUI Trapezoid Area.csproj.CoreCompileInputs.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\GUI Trapezoid Area\GUI Trapezoid Area\obj\Debug\GUI Trapezoid Area.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\GUI Trapezoid Area\GUI Trapezoid Area\obj\Debug\GUI Trapezoid Area.pdb

@@ -1,0 +1,7 @@
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\TrapezoidAreaErrorDetection\TrapezoidAreaErrorDetection\bin\Debug\TrapezoidAreaErrorDetection.exe.config
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\TrapezoidAreaErrorDetection\TrapezoidAreaErrorDetection\bin\Debug\TrapezoidAreaErrorDetection.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\TrapezoidAreaErrorDetection\TrapezoidAreaErrorDetection\bin\Debug\TrapezoidAreaErrorDetection.pdb
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\TrapezoidAreaErrorDetection\TrapezoidAreaErrorDetection\obj\Debug\TrapezoidAreaErrorDetection.csprojAssemblyReference.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\TrapezoidAreaErrorDetection\TrapezoidAreaErrorDetection\obj\Debug\TrapezoidAreaErrorDetection.csproj.CoreCompileInputs.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\TrapezoidAreaErrorDetection\TrapezoidAreaErrorDetection\obj\Debug\TrapezoidAreaErrorDetection.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\TrapezoidAreaErrorDetection\TrapezoidAreaErrorDetection\obj\Debug\TrapezoidAreaErrorDetection.pdb

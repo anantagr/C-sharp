@@ -1,0 +1,7 @@
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\for and foreach with string\for and foreach with string\bin\Debug\for and foreach with string.exe.config
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\for and foreach with string\for and foreach with string\bin\Debug\for and foreach with string.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\for and foreach with string\for and foreach with string\bin\Debug\for and foreach with string.pdb
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\for and foreach with string\for and foreach with string\obj\Debug\for and foreach with string.csprojAssemblyReference.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\for and foreach with string\for and foreach with string\obj\Debug\for and foreach with string.csproj.CoreCompileInputs.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\for and foreach with string\for and foreach with string\obj\Debug\for and foreach with string.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\for and foreach with string\for and foreach with string\obj\Debug\for and foreach with string.pdb

@@ -1,0 +1,10 @@
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\GUI Array Search\GUI Array Search\bin\Debug\GUI Array Search.exe.config
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\GUI Array Search\GUI Array Search\bin\Debug\GUI Array Search.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\GUI Array Search\GUI Array Search\bin\Debug\GUI Array Search.pdb
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\GUI Array Search\GUI Array Search\obj\Debug\GUI Array Search.csprojAssemblyReference.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\GUI Array Search\GUI Array Search\obj\Debug\GUI_Array_Search.mainForm.resources
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\GUI Array Search\GUI Array Search\obj\Debug\GUI_Array_Search.Properties.Resources.resources
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\GUI Array Search\GUI Array Search\obj\Debug\GUI Array Search.csproj.GenerateResource.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\GUI Array Search\GUI Array Search\obj\Debug\GUI Array Search.csproj.CoreCompileInputs.cache
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\GUI Array Search\GUI Array Search\obj\Debug\GUI Array Search.exe
+F:\Google drive - theanantagr\Study Stuff\SAIT College\Rapid App Development for OOSD\C# Programs\GUI Array Search\GUI Array Search\obj\Debug\GUI Array Search.pdb
