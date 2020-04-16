@@ -1,0 +1,11 @@
+D:\C# programs\my mark program\my mark program\bin\Debug\my mark program.exe.config
+D:\C# programs\my mark program\my mark program\bin\Debug\my mark program.exe
+D:\C# programs\my mark program\my mark program\bin\Debug\my mark program.pdb
+D:\C# programs\my mark program\my mark program\obj\Debug\my mark program.csprojAssemblyReference.cache
+D:\C# programs\my mark program\my mark program\obj\Debug\my_mark_program.Form1.resources
+D:\C# programs\my mark program\my mark program\obj\Debug\getIntegarDialog_Development.GetIntegarDialog.resources
+D:\C# programs\my mark program\my mark program\obj\Debug\my_mark_program.Properties.Resources.resources
+D:\C# programs\my mark program\my mark program\obj\Debug\my mark program.csproj.GenerateResource.cache
+D:\C# programs\my mark program\my mark program\obj\Debug\my mark program.csproj.CoreCompileInputs.cache
+D:\C# programs\my mark program\my mark program\obj\Debug\my mark program.exe
+D:\C# programs\my mark program\my mark program\obj\Debug\my mark program.pdb

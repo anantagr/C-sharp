@@ -1,0 +1,11 @@
+D:\C# programs\getIntegarDialog Development\getIntegarDialog Development\obj\Debug\getIntegarDialog Development.csprojAssemblyReference.cache
+D:\C# programs\getIntegarDialog Development\getIntegarDialog Development\obj\Debug\getIntegarDialog_Development.GetIntegarDialog.resources
+D:\C# programs\getIntegarDialog Development\getIntegarDialog Development\obj\Debug\getIntegarDialog_Development.mainForm.resources
+D:\C# programs\getIntegarDialog Development\getIntegarDialog Development\obj\Debug\getIntegarDialog_Development.Properties.Resources.resources
+D:\C# programs\getIntegarDialog Development\getIntegarDialog Development\obj\Debug\getIntegarDialog Development.csproj.GenerateResource.cache
+D:\C# programs\getIntegarDialog Development\getIntegarDialog Development\obj\Debug\getIntegarDialog Development.csproj.CoreCompileInputs.cache
+D:\C# programs\getIntegarDialog Development\getIntegarDialog Development\bin\Debug\getIntegarDialog Development.exe.config
+D:\C# programs\getIntegarDialog Development\getIntegarDialog Development\bin\Debug\getIntegarDialog Development.exe
+D:\C# programs\getIntegarDialog Development\getIntegarDialog Development\bin\Debug\getIntegarDialog Development.pdb
+D:\C# programs\getIntegarDialog Development\getIntegarDialog Development\obj\Debug\getIntegarDialog Development.exe
+D:\C# programs\getIntegarDialog Development\getIntegarDialog Development\obj\Debug\getIntegarDialog Development.pdb

@@ -1,0 +1,7 @@
+D:\C# programs\Product Class Developement\Product Class Developement\bin\Debug\Product Class Developement.exe.config
+D:\C# programs\Product Class Developement\Product Class Developement\bin\Debug\Product Class Developement.exe
+D:\C# programs\Product Class Developement\Product Class Developement\bin\Debug\Product Class Developement.pdb
+D:\C# programs\Product Class Developement\Product Class Developement\obj\Debug\Product Class Developement.csprojAssemblyReference.cache
+D:\C# programs\Product Class Developement\Product Class Developement\obj\Debug\Product Class Developement.csproj.CoreCompileInputs.cache
+D:\C# programs\Product Class Developement\Product Class Developement\obj\Debug\Product Class Developement.exe
+D:\C# programs\Product Class Developement\Product Class Developement\obj\Debug\Product Class Developement.pdb
